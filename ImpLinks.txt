@@ -1,0 +1,2 @@
+https://www.javaguides.net/2021/10/spring-boot-exception-handling-example.html
+https://www.baeldung.com/spring-data-derived-queries
